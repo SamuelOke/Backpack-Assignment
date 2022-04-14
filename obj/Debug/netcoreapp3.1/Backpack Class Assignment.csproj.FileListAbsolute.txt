@@ -1,0 +1,14 @@
+F:\CS 30\Backpack Class Assignment\bin\Debug\netcoreapp3.1\Backpack Class Assignment.exe
+F:\CS 30\Backpack Class Assignment\bin\Debug\netcoreapp3.1\Backpack Class Assignment.deps.json
+F:\CS 30\Backpack Class Assignment\bin\Debug\netcoreapp3.1\Backpack Class Assignment.runtimeconfig.json
+F:\CS 30\Backpack Class Assignment\bin\Debug\netcoreapp3.1\Backpack Class Assignment.runtimeconfig.dev.json
+F:\CS 30\Backpack Class Assignment\bin\Debug\netcoreapp3.1\Backpack Class Assignment.dll
+F:\CS 30\Backpack Class Assignment\bin\Debug\netcoreapp3.1\Backpack Class Assignment.pdb
+F:\CS 30\Backpack Class Assignment\obj\Debug\netcoreapp3.1\Backpack Class Assignment.csproj.AssemblyReference.cache
+F:\CS 30\Backpack Class Assignment\obj\Debug\netcoreapp3.1\Backpack Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS 30\Backpack Class Assignment\obj\Debug\netcoreapp3.1\Backpack Class Assignment.AssemblyInfoInputs.cache
+F:\CS 30\Backpack Class Assignment\obj\Debug\netcoreapp3.1\Backpack Class Assignment.AssemblyInfo.cs
+F:\CS 30\Backpack Class Assignment\obj\Debug\netcoreapp3.1\Backpack Class Assignment.csproj.CoreCompileInputs.cache
+F:\CS 30\Backpack Class Assignment\obj\Debug\netcoreapp3.1\Backpack Class Assignment.dll
+F:\CS 30\Backpack Class Assignment\obj\Debug\netcoreapp3.1\Backpack Class Assignment.pdb
+F:\CS 30\Backpack Class Assignment\obj\Debug\netcoreapp3.1\Backpack Class Assignment.genruntimeconfig.cache
